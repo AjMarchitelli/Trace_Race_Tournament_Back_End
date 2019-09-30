@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class MatchupTest < ActiveSupport::TestCase
+class DrawingTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
